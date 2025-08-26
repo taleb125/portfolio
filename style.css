@@ -9,11 +9,6 @@
 --cor-preto: #090000;
 }
 
-.copyright {
-    font-size: 15px;
-    color: #000000;
-}
-
 #body {
     background-color: var(--cor-azulclaro);
 }
@@ -28,7 +23,6 @@
     color: var(--cor-branco);
     font-size: 20px;
     transition:  color 0.3s ease;
-    
 }
 #ancora:hover {
     color: var(--cor-principal);
@@ -38,4 +32,9 @@
 
 .habilidades {
     text-decoration: none;
+}
+
+.copyright {
+    font-size: 15px;
+    color: #000000;
 }
