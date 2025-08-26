@@ -1,16 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
---cor-principal: #003aff;
---cor-escuro: #750cbc;
---cor-secundaria: #dd07b1;
---cor-branco: #fbfbfb;
---cor-azulclarinho: #00b4ff;
---cor-preto: #090000;
+    --cor-principal: #5ba4cb;
+    --cor-escura: #4dbbea;
+    --cor-cinza: #98b0a9;
+    --cor-azulclaro: #3bbdff;
+    --cor-azulescuro: #0088dd;
+    --cor-preto: #000000;
+    --cor-branco: #FFFFFF;
 }
 
 #body {
-    background-color: var(--cor-azulclaro);
+    background-color: var(--cor-principal);
 }
 
 #rodape {
